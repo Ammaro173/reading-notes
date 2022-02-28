@@ -4,7 +4,9 @@
 ---
 
 ## To Finish those 2 years in 10 weeks you will pay the price of pain... but its not a Normal Pain , its the type of pain you love and you will request it from time to time since it will stimulate your brain cells and neurons
-=======
+
+---
+
 ## To Finish those 2 years in 10 weeks you will pay the price of pain... but its not a Normal Pain , its the type of pain you love and you will request it from time to time since it will stimulate your brain cells and neurons!
 
 >Dont Confuse Pain with Suffering

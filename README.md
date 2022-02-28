@@ -20,4 +20,13 @@
 | Terminal  |[Ter.Notes](terminal(Tutorials).md)|
 | SQL      | [SQL.Notes](sql.md)|
 | The Growth Mindset   |[Mindset.Notes](TheGrowthMindset.md)|
+
 ---
+---
+
+| Reading # | Link |
+|-----|-----|
+|Class1 | [Class1.reads](Read.Classes/Read.Class1.md)|
+|Class2 | [Class2.reads](Read.Classes/Read.Class2.md)|
+
+___
