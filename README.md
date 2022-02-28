@@ -15,7 +15,7 @@
 # Code 401 - Advanced Software Development
 ---
 | Task  | Link |
-| :- | :- |
+|-----|-----|
 | Python Core Certificate|[SoloLearn.Certificate](SoloLear_Cert.md)|
 | Terminal  |[Ter.Notes](terminal(Tutorials).md)|
 | SQL      | [SQL.Notes](sql.md)|

@@ -1,4 +1,7 @@
 # Ryans Tutorials
+---
+>[Back to Home](../README.md)
+---
 
 ># Remeber This :-
 >> ## Unix likes to take the approach of giving you a set of building blocks and then letting you put them together. This allows us to build things to suit our needs.
@@ -156,3 +159,6 @@ Most commands have many useful command line options. Make sure you skim the man 
 
 ># Cheat Sheet **Ryan tutorials**
 >># LINK TO THE [CHEAT SHEET](https://ryanstutorials.net/linuxtutorial/cheatsheet.php) PAGE IF YOU WANT TO CHECK IT.
+
+---
+>[Back to Home](../README.md)
