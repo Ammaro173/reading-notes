@@ -39,6 +39,6 @@
 | --------- | ------------------------------------------- |
 | Class1    | [Class1.reads](Read.Classes/Read.Class1.md) |
 | Class2    | [Class2.reads](Read.Classes/Read.Class2.md) |
-| Class3    | [Class3.reads](Read.Classes/Read.Class2.md) |
+| Class3    | [Class3.reads](Read.Classes/Read.Class3.md) |
 
 ---
