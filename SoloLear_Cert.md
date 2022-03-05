@@ -1,3 +1,7 @@
->[Back to Home](../README.md)
+# Python Core Certificate
+
+> [Back to Home](../README.md)
+
 ---
+
 ![image](images/soloLearn/SoloLearnCert.png)
