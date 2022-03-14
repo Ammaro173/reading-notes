@@ -43,5 +43,6 @@
 | Class4    | [Class4.reads](Read.Classes/Read.Class4.md) |
 | Class5    | [Class5.reads](Read.Classes/Read.Class5.md) |
 | Class6    | [Class6.reads](Read.Classes/Read.Class6.md) |
+| Class7    | [Class7.reads](Read.Classes/Read.Class7.md) |
 
 ---
