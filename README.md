@@ -48,5 +48,6 @@
 | Class9    | [Class9.reads](Read.Classes/Read.Class9.md)   |
 | Class10   | [Class10.reads](Read.Classes/Read.Class10.md) |
 | Class11   | [Class11.reads](Read.Classes/Read.Class11.md) |
+| Class12   | [Class12.reads](Read.Classes/Read.Class12.md) |
 
 ---
