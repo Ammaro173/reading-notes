@@ -42,7 +42,7 @@ The different types of tree data structures are as follows:
 
 A general tree data structure has no restriction on the number of nodes. It means that a parent node can have any number of child nodes.
 
-2. Binary tree
+2. - Binary tree
 
 A node of a binary tree can have maximum number of two child nodes. In the given tree diagram, node B, D, and F are left children, while E, C, and G are the right children.
 
