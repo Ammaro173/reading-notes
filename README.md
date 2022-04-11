@@ -53,5 +53,6 @@
 | Class14   | [Class14.reads](Read.Classes/Read.Class14.md) |
 | Class15   | [Class15.reads](Read.Classes/Read.Class15.md) |
 | Class16   | [Class16.reads](Read.Classes/Read.Class16.md) |
+| Class17   | [Class17.reads](Read.Classes/Read.Class17.md) |
 
 ---
