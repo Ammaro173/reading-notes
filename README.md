@@ -54,5 +54,8 @@
 | Class15   | [Class15.reads](Read.Classes/Read.Class15.md) |
 | Class16   | [Class16.reads](Read.Classes/Read.Class16.md) |
 | Class17   | [Class17.reads](Read.Classes/Read.Class17.md) |
+| Class26   | [Class26.reads](Read.Classes/Read.Class26.md) |
+| Class27   | [Class27.reads](Read.Classes/Read.Class27.md) |
+| Class28   | [Class28.reads](Read.Classes/Read.Class28.md) |
 
 ---
