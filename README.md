@@ -61,5 +61,6 @@
 | Class30   | [Class30.reads](Read.Classes/Read.Class30.md) |
 | Class31   | [Class31.reads](Read.Classes/Read.Class31.md) |
 | Class32   | [Class32.reads](Read.Classes/Read.Class32.md) |
+| Class33   | [Class33.reads](Read.Classes/Read.Class33.md) |
 
 ---
